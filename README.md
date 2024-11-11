@@ -97,3 +97,10 @@ true / false
 ```
 true / false
 ```
+<br/>
+
+## Game UI
+
+
+
+![sudoku_](https://github.com/user-attachments/assets/42540b29-b6d6-45fe-868b-48f488be0283)
