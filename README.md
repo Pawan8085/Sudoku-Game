@@ -1,6 +1,29 @@
 # Sudoku-Game
 ### Developed an API for a Sudoku game with solution generation powered by a backtracking algorithm. Designed an interactive UI using HTML, CSS, and JavaScript to enable gameplay. Key features include game modes (easy, medium, hard), options for generating new games, retrieving solutions, checking for a winning state, and filling the grid interactively.
+---
+### **Features**
 
+- 🎮 **Game Modes**:
+  - **Easy**: Easy Sudoku puzzle.
+  - **Medium**: Medium Sudoku puzzle.
+  - **Hard**: Hard Sudoku puzzle.
+
+- 🔄 **Next Game**: Option to switch to another game.
+
+- 💡 **Sudoku Solution**: Access the solution to the current puzzle when needed.
+
+- ✍️ **Play Sudoku**:
+  - **Fill Empty Positions**: Interactively input numbers into blank cells.
+  - **Real-Time Validation**: Checks whether input is correct or incorrect.
+
+- 🏆 **Win Detection**: Automatically notified upon successful completion of the puzzle.
+
+- 💻 **Interactive UI**:
+  - **User-Friendly Interface**: Built with HTML, CSS, and JavaScript for an engaging user experience.
+
+- 🎥 **Demo Video**: Watch the game in action [here](https://drive.google.com/file/d/1oED-YMqrxem8qit1y04QJTMv8AN4UQA6/view?usp=sharing).
+
+---
 ## Game API'S 
 ### Get Easy Sudoku Puzzle
 
